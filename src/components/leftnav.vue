@@ -58,7 +58,7 @@ export default {
               icon: 'iconfont icon-hangxian',
               menuname: '航线信息',
               hasThird: 'N',
-              url: 'iconfont icon-hangxian',
+              url: 'goods/airLine',
               menus: null
             }, {
               menuid: 3333,

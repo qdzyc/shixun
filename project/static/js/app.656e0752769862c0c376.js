@@ -242,7 +242,7 @@ webpackJsonp([1], {
         return i("el-menu", {
           staticClass: "el-menu-vertical-demo",
           attrs: {
-            "default-active": "2",
+            // "default-active": "2",
             collapse: e.collapsed,
             "collapse-transition": "",
             router: "",

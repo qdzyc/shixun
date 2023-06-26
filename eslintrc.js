@@ -8,9 +8,9 @@
         "extensions": [
             ".js",
             ".vue"
-  ]
+        ]
     },
-    "eslint.validate":[
+    "eslint.validate": [
         "javascript",
         "javascriptreact",
         "vue",
